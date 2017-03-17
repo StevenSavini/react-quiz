@@ -1,0 +1,45 @@
+body {
+  /* Use a "Matrix"-style color scheme. */
+  /* background-color: black; */
+  /* color: #00ff00; */
+
+  /* font-family: monospace; */
+  /* font-size: 1.5em; */
+}
+
+h1 {
+  text-align: center;
+  color: #007DB7;
+}
+
+h2 {
+  text-align: center;
+  color: #007DB7;
+}
+
+.selected {
+  background-color: white;
+  color: #339CC3;
+}
+.correct{
+  color: green;
+}
+
+ul {
+  /* Wrap the list in a green box. */
+  /* width: 300px; */
+  /* border: 1px solid #00ff00; */
+}
+
+li {
+  /* Add a bit more spacing between list items. */
+  border: 2.5px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px 42% 0 37%;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  background-color: #339CC3;
+
+}
